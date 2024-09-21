@@ -1,4 +1,4 @@
-package org.coffejar;
+package org.coffeejar;
 
 /**
  * Hello World program
